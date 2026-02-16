@@ -16,27 +16,17 @@ A Fabric mod for Minecraft 1.21.10 that adds a toggleable performance stats HUD 
   - **Toggle Perf HUD** — Default: `P`
   - **Toggle Performance Mode** — Default: `O`
 
-## Requirements
+## Screenshots
 
-- **Minecraft:** 1.21.10
-- **Fabric Loader:** ≥ 0.16.0
-- **Fabric API**
-- **Java:** 21+
+**Performance HUD** (press P to toggle)
 
-## Installation
+![Perf Boost HUD](https://raw.githubusercontent.com/Omymobie/Perf-Boost/main/src/main/resources/assets/perfboost/hud.png)
 
-1. Install [Fabric](https://fabricmc.net/use/) for your Minecraft version.
-2. Download the latest `perfboost-1.0.0.jar` from [Releases](../../releases) (or build from source).
-3. Place the JAR in your `.minecraft/mods` folder.
-4. Launch the game with the Fabric profile.
+**Keybinds in Settings**
 
-## Building from source
+![Perf Boost keybinds](https://raw.githubusercontent.com/Omymobie/Perf-Boost/main/src/main/resources/assets/perfboost/settings.png)
 
-```bash
-./gradlew build
-```
 
-The built JAR is in `build/libs/` (use the remapped JAR, e.g. `perfboost-1.0.0.jar`).
 
 ## License
 
